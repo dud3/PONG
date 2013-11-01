@@ -13,7 +13,7 @@ var g_ctx = g_canvas.getContext("2d");
 // =================
 // KEYBOARD HANDLING
 // =================
-
+// Commit me
 var g_keys = [];
 
 function handleKeydown(evt) {
