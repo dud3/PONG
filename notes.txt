@@ -2,6 +2,7 @@
 //
 // Step 9: Homework
 /*
+// Everything done
 
 * Make the ball bounce off the left and right 
   edges of the playfield, instead of "resetting". +
